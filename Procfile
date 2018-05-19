@@ -1,1 +1,1 @@
-worker: node casebot.js
+worker:  node casebot.js
