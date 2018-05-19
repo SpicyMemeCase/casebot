@@ -266,5 +266,6 @@ function play(guild, song) {
         serverQueue.textChannel.send(`Now playing: **${song.title}**`);
 }
 
-client.login(TOKEN);
+client.login(process.env.BOT_TOKEN);
+
 
