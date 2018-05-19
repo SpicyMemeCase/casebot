@@ -2,7 +2,7 @@
   "name": "CaseBot",
   "description": "what a fuckn meme lad",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "bot.js",  casebot.js
   "scripts": {
     "start": "node bot.js"
   },
