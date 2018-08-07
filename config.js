@@ -1,4 +1,4 @@
-exports.BOT_TOKEN = 'NDQ1OTc5MjY3Mjc3Mzg5ODI0.DkrKYg.gTwv4_5E9Jmc9hLbJTtpi85CLsw';
+exports.BOT_TOKEN = 'NDQ1OTc5MjY3Mjc3Mzg5ODI0.DkrKrA.P-cR1LrQ-jO4_kw41BckKSZYW9U';
 
 exports.PREFIX = 'c!';
 
