@@ -1,18 +1,24 @@
 {
   "name": "casebot",
-  "description": "what a meme lad",
   "version": "1.0.0",
+  "description": "what a meme lad",
   "main": "casebot.js",
+  "engines": {
+    "node": "8.x",
+    "npm": "*"
+  },
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node casebot.js"
   },
-  "dependencies": {
-    "discord-rpc": "3.0.0-beta.10",
-    "discord.js": "11.3.2",
-    "ffmpeg.js": "3.1.9001",
-    "ffmpeg": "0.0.4",
-    "opusscript": "0.0.6",
-    "simple-youtube-api": "5.0.2",
-    "ytdl-core": "0.20.4"
-  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SpicyMemeCase/casebot/blob/master/casebot.js"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
+  "author": "case",
+  "license": "ISC"
 }
