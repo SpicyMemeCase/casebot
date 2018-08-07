@@ -1,5 +1,5 @@
 const { Client, Util } = require('discord.js');
-const { TOKEN, PREFIX, GOOGLE_API_KEY } = require('./config');
+const { BOT_TOKEN, PREFIX, GOOGLE_API_KEY } = require('./config');
 const YouTube = require('simple-youtube-api');
 const ytdl = require('ytdl-core');
 
@@ -202,6 +202,6 @@ function play(guild, song) {
         serverQueue.textChannel.send(`Now playing: **${song.title}**`);
 }
 
-client.login(process.env.TOKEN);
+client.login(process.env.BOT_TOKEN);
 
 
