@@ -1,0 +1,9 @@
+exports.TOKEN = 'NDQ1OTc5MjY3Mjc3Mzg5ODI0.DeUM9A.HgGXEAMbJJeGbOIzEu-jz6OmsMc';
+
+exports.PREFIX = 'c!';
+
+exports.GOOGLE_API_KEY = 'AIzaSyANgMz7ZMhuYhTFHUJTNhdzuQRqsiGYXHk';
+
+exports.ME = '157280500862418944';
+
+exports.OWNERID = '157280500862418944';
